@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrackCar</string>
+    <string name="action_settings">Settings</string>
+    <string name="gprs_mode">GPRS</string>
+    <string name="sms_mode">SMS</string>
+    <string name="check_device">Check Device</string>
+
+</resources>
